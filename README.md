@@ -79,5 +79,8 @@ To use the scripts for time series analysis and prediction:
 - Fit the model.
 - Make predictions.
 
+  ![image](https://github.com/RAMAN0330/Energy-Production/assets/83901587/0aaba1ff-6fcb-4854-8b31-81d83cc6aab2)
+
+
 ## Conclusion
 This project demonstrates the application of time series analysis for forecasting monthly energy production. By identifying patterns and developing predictive models, it aims to enhance energy management and decision-making processes.
