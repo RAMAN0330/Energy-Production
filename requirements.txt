@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+pylab
+statsmodels
+chart_studio
